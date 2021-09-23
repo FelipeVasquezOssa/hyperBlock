@@ -1,5 +1,30 @@
-hola me llamo felipe
+[33mcommit af321e151bbf5afdb2e39a6097e140ca929ef563[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: FelipeVasquez <f.vasquezossa@gmail.com>
+Date:   Tue Sep 21 21:14:41 2021 -0300
 
+    este es el tercer commit
+     Please enter the commit message for your changes. Lines starting
 
-soy programador jr
-sdasd
+[33mcommit 580df83256d865165c215e79c359d77336117869[m
+Author: FelipeVasquez <f.vasquezossa@gmail.com>
+Date:   Tue Sep 21 21:08:04 2021 -0300
+
+    este es el segundo commit del archivo
+
+[33mcommit 7204ccc9af5eedc313bd4b6961de07ed43892cb3[m
+Author: FelipeVasquez <f.vasquezossa@gmail.com>
+Date:   Tue Sep 21 21:06:33 2021 -0300
+
+    este es el primer commit del archivo
+
+[33mcommit 1c2974c5831cf3ca565496f652e36ac7891010a2[m
+Author: FelipeVasquez <f.vasquezossa@gmail.com>
+Date:   Tue Sep 21 21:00:19 2021 -0300
+
+    este es el primer commit del archivo
+
+[33mcommit e163491584978a3c30ead971ff3bb281e0b6f85e[m
+Author: FelipeVasquez <f.vasquezossa@gmail.com>
+Date:   Tue Aug 17 21:50:23 2021 -0400
+
+    este es el primer commit del archivo
